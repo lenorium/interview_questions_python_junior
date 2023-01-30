@@ -28,7 +28,7 @@
 - [26. Что такое PEP8](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#26-что-такое-pep)
 - [27. Что такое фунция range](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#27-что-такое-фунция-range)
 - [28. Что делает enumerate](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#28-что-делает-enumerate)
-- [29. Какие методы списков](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#29-какие-методы-списков)
+- ~~[29. Какие методы списков](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#29-какие-методы-списков)~~
 - [30. Что в python не является объектом](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#30-что-в-python-не-является-объектом)
 - [31. Название переменных](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#31-название-переменных)
 - [32. Что такое литералы ](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#32-что-такое-литералы)
@@ -59,9 +59,9 @@
 - [57. Модификаторы доступа](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#57-модификаторы-доступа)
 - [58. Генераторы](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#58-генераторы)
 - [59. Как пишутся комментарии в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#59-как-пишутся-комментарии-в-python)
-- [60. Как можно обратить (reverse) порядок элементов в списке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#60-как-можно-обратить-reverse-порядок-элементов-в-списке)
+- ~~[60. Как можно обратить (reverse) порядок элементов в списке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#60-как-можно-обратить-reverse-порядок-элементов-в-списке)~~
 - [61. Если мы не поставим двоеточие в конце строки для цикла "do-while", он все равно сработает?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#61-если-мы-не-поставим-двоеточие-в-конце-строки-для-цикла-do-while-он-все-равно-сработает)
-- [62. Как убрать из списка дубликат элемента](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#62-как-убрать-из-списка-дубликат-элемента)
+- ~~[62. Как убрать из списка дубликат элемента](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#62-как-убрать-из-списка-дубликат-элемента)~~
 - [63. Расскажите про арифметические операторы //, %, и **](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#63-расскажите-про-арифметические-операторы---и-)
 - ~~[64. Как посчитать длину строки (string)](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#64-как-посчитать-длину-строки-string)~~
 - [65. Расскажите про генераторы списков (list comprehension)](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#65-расскажите-про-генераторы-списков-list-comprehension)
