@@ -1,10 +1,10 @@
 # Вопросы для собеседования Python Junior
 
-- [1. Виды типизации](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#1-виды-типизации)
-- [2. Типизация python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#3-что-такое-переменная)
-- [3. Что такое переменная](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#3-что-такое-переменная)
-- [4. Числа в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#4-числа-в-python)
-- [5. Строки в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#5-строки-в-python)
+- ~~[1. Виды типизации](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#1-виды-типизации)~~
+- ~~[2. Типизация python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#3-что-такое-переменная)~~
+- ~~[3. Что такое переменная](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#3-что-такое-переменная)~~
+- ~~[4. Числа в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#4-числа-в-python)~~
+- ~~[5. Строки в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#5-строки-в-python)~~
 - [6. Списки и кортежи в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#5-строки-в-python)
 - [7. Словарь в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#7-cловарь-в-python)
 - [8. Какие типы данных относятся к структурам данных](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#8-какие-типы-данных-относятся-к-структурам-данных)
@@ -15,7 +15,7 @@
 - [13. Git merge и rebase](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#13-git-merge-и-rebase)
 - [14. Что такое виртуальное окружение](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#14-что-такое-виртуальное-окружение)
 - [15. Как установить виртуальное окружение](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#15-как-установить-виртуальное-окружение)
-- [16. Виды форматирования строк](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#16-виды-форматирования-строк)
+- ~~[16. Виды форматирования строк](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#16-виды-форматирования-строк)~~
 - [17. Cрезы или слайсы в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#17-cрезы-или-слайсы-в-python)
 - [18. Что такое итерация](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#18-что-такое-итерация)
 - [19. Какие циклы есть в python](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#19-какие-циклы-есть-в-python)
@@ -24,7 +24,7 @@
 - [22. Как запросить у пользовптеля ввод](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#22-как-запросить-у-пользователя-ввод)
 - [23. Преобразование типов](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#23-преобразование-типов)
 - [24. Что такое аннотация типов](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#24-что-такое-аннотация-типов)
-- [25. Строка это последовательность или нет](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#25-строка-это-последовательность-или-нет)
+- ~~[25. Строка это последовательность или нет](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#25-строка-это-последовательность-или-нет)~~
 - [26. Что такое PEP8](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#26-что-такое-pep)
 - [27. Что такое фунция range](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#27-что-такое-фунция-range)
 - [28. Что делает enumerate](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#28-что-делает-enumerate)
@@ -32,9 +32,9 @@
 - [30. Что в python не является объектом](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#30-что-в-python-не-является-объектом)
 - [31. Название переменных](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#31-название-переменных)
 - [32. Что такое литералы ](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#32-что-такое-литералы)
-- [33. Можно ли число сделать строкой](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#33-можно-ли-число-сделать-строкой)
-- [34. Что делает метод split() ](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#34-что-делает-метод-split)
-- [35. Что делает метод join()](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#35-что-делает-метод-join)
+- ~~[33. Можно ли число сделать строкой](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#33-можно-ли-число-сделать-строкой)~~
+- ~~[34. Что делает метод split() ](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#34-что-делает-метод-split)~~
+- ~~[35. Что делает метод join()](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#35-что-делает-метод-join)~~
 - [36. Как импортировать модуль](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#36-как-импортировать-модуль)
 - [37. Как импортировать все содержимое модуля](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#37-как-импортировать-все-содержимое-модуля)
 - [38. Сколько пар ключ значение может быть в словаре](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#38-сколько-пар-ключ-значение-может-быть-в-словаре)
@@ -63,7 +63,7 @@
 - [61. Если мы не поставим двоеточие в конце строки для цикла "do-while", он все равно сработает?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#61-если-мы-не-поставим-двоеточие-в-конце-строки-для-цикла-do-while-он-все-равно-сработает)
 - [62. Как убрать из списка дубликат элемента](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#62-как-убрать-из-списка-дубликат-элемента)
 - [63. Расскажите про арифметические операторы //, %, и **](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#63-расскажите-про-арифметические-операторы---и-)
-- [64. Как посчитать длину строки (string)](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#64-как-посчитать-длину-строки-string)
+- ~~[64. Как посчитать длину строки (string)](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#64-как-посчитать-длину-строки-string)~~
 - [65. Расскажите про генераторы списков (list comprehension)](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#65-расскажите-про-генераторы-списков-list-comprehension)
 - [66. Что такое HTTP](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#66-что-такое-http)
 - [67. Что такое json, xml](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#67-что-такое-json-xml)
@@ -92,7 +92,7 @@
 Использовать оператор return или yield](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#89-что-нужно-сделать-чтобы-функция-возвращала-значение)
 - [90. Что если в функции не будет return, будет ли она что-то возвращать?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#90-что-если-в-функции-не-будет-return-будет-ли-она-что-то-возвращать)
 - [91. Напишите в одну строку как можно получить самую позднюю по коду букву в строке](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#91-напишите-в-одну-строку-как-можно-получить-самую-позднюю-по-коду-букву-в-строке)
-- [92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92-как-конвертировать-список-в-строку)
+- ~~[92. Как конвертировать список в строку?](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#92-как-конвертировать-список-в-строку)~~
 - [93. Принципы SOLID](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#93-принципы-solid)
 - [94. SQL JOIN](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#94-sql-join)
 - [95. SQL оператор HAVING](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#95-sql-оператор-having)
